@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/take_home_exercise_intern-main.iml" filepath="$PROJECT_DIR$/.idea/modules/take_home_exercise_intern-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/take_home_exercise_intern-main.main.iml" filepath="$PROJECT_DIR$/.idea/modules/take_home_exercise_intern-main.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/take_home_exercise_intern-main.test.iml" filepath="$PROJECT_DIR$/.idea/modules/take_home_exercise_intern-main.test.iml" />
+    </modules>
+  </component>
+</project>
